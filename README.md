@@ -1,16 +1,24 @@
-### Hi there 👋
 
-<!--
-**illoonego/illoonego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+Data Scientist | Aspiring AI Professional
+
+
+## 🛠 Skills
+**Programming and Data Processing:**
+- Python: Task Automation, Data Processing (Pandas, NumPy, Seaborn, Matplotlib, Scikit-Learn).
+- R: Data Analysis (ggplot2, randomForest).
+
+**Statistical Analysis and Modeling:**
+- Techniques: Regression Analysis, Hypothesis Testing, ANOVA, A/B Testing, Principal Componant Analysis.
+- Machine Learning: Supervised and Unsupervised Learning, Regression, Classification (Naive Bayes, Liniar Discriminant Analysis, Logistc Regression)
+
+**Database Management and Querying:**
+- SQL: SQLite, MySQL
+- Excel: Advanced Formulas, Pivot Tables
+
+**AI (IBM Certified) and Promt Engineering:**
+- LLM Implementation: Gemini, OpenAI GPT, Copilot, Stable Diffusion
+
