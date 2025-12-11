@@ -5,10 +5,10 @@
 My work spans from deep learning in high-energy physics (charged Higgs boson searches at the LHC) to building production-ready pipelines for LLM fine-tuning.  
 
 ## 📂 Repos
-- **[Linear Regression from scratch](https://github.com/illoonego/linear-regression-from-scratch)** – Linear regression implementation using only NumPy
+- **[Cloud Architecture Agent](https://github.com/illoonego/cloud-architecture-agent)** – GenAI Rag Agent System for AWS cloud architecture reasoning
 
-- **[New Particles Detection](https://github.com/illoonego/charged-higgs-dnn-search)** – Deep learning–based search for charged Higgs boson at the LHC using PyTorch
+- **[Linear Regression from scratch](https://github.com/illoonego/linear-regression-from-scratch)** – Linear regression implementation using only NumPy
 
 - **[Email Classification Agent](https://github.com/illoonego/gemma-finetune-emails)** – LoRA fine-tuning pipeline for email intent classification with Gemma-2B
 
-- **[Industrial Failure Prediction](https://github.com/illoonego/industrial-failure-prediction)** – XGBoost pipeline with SMOTE for predictive maintenance on imbalanced sensor data
+- **[New Particles Detection](https://github.com/illoonego/charged-higgs-dnn-search)** – Deep learning–based search for charged Higgs boson at the LHC using PyTorch
